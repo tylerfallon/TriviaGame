@@ -1,0 +1,46 @@
+body {
+	background-image: url("../images/space.png");
+}
+
+
+#triviabox {
+	width: 75%;
+	height: 500px;
+	background-color: yellow;
+	margin: 50px 0px 0px 0px;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 40px;
+	color: blue;
+}
+
+#timeremaining {
+	color: blue;
+}
+
+#ttt {
+	padding: 30px 0px 0px 0px;
+}
+
+#question {
+	color: blue;
+	margin: 50px 0px 50px 0px;
+}
+
+#choice1 {
+	color: blue;
+}
+
+#choice2 {
+	color: blue;
+}
+
+#choice3 {
+	color: blue;
+}
+
+#choice4 {
+	color: blue;
+}

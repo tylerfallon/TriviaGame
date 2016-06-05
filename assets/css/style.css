@@ -1,46 +1,40 @@
 body {
-	background-image: url("../images/space.png");
-}
-
-
-#triviabox {
-	width: 75%;
-	height: 500px;
-	background-color: yellow;
-	margin: 50px 0px 0px 0px;
-	font-size: 20px;
+	background-image: url("../images/space.jpg");
 }
 
 h1 {
 	font-size: 40px;
-	color: blue;
+	color: yellow;
 }
 
-#timeremaining {
-	color: blue;
+#thegame {
+	color: white;
 }
 
-#ttt {
-	padding: 30px 0px 0px 0px;
+.option {
+	border: 3px solid yellow;
+	width: 300px;
+	margin: 10px 10px 10px 10px;
+	font-weight: bold;
+	background-color: red;
 }
 
-#question {
-	color: blue;
-	margin: 50px 0px 50px 0px;
+.question {
+	font-size: 30px;
+	margin: 30px 0px 30px 0px;
+	border: 5px solid black;
+	width: 600px;
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
 }
 
-#choice1 {
-	color: blue;
-}
-
-#choice2 {
-	color: blue;
-}
-
-#choice3 {
-	color: blue;
-}
-
-#choice4 {
-	color: blue;
+.timer {
+	margin: 30px 0px 30px 0px;
+	font-size: 16px;
+	border: 3px solid black;
+	width: 500px;
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
 }
